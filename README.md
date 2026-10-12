@@ -4,6 +4,14 @@
 This project uses Machine Learning classification algorithms to predict whether a wine is of good quality based on its physicochemical properties.
 
 The red and white wine datasets are combined, and wine is classified as **Good Quality (quality ≥ 7)** or **Not Good Quality (quality < 7)**.
+### 🍷 Wine Quality Prediction — Ensemble Learning
+
+Machine Learning project that compares multiple classification algorithms and ensemble techniques to predict wine quality.
+
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+- **Models:** Random Forest, Voting, Stacking, SVM, Logistic Regression
+- **Best Accuracy:** 88.62% — Random Forest
+- **Notebook:** [View Project](https://github.com/aman295-cyber/Wine-Quality-Ensemble-Learning)
 
 ## 🎯 Objectives
 - Analyze red and white wine quality data.
